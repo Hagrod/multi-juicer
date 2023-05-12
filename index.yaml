@@ -98,8 +98,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: d155e9e09e626b5a372d6a7c4935f135bbbdd11233d1a5c3506073421e69aa54
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/main/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/main/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -110,7 +110,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-5.3.0.tgz
@@ -121,8 +121,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 20dd4a1b317e01905f9246f44cafa35a37aa6aa67eb8c68c8dea5fe82a22561a
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/main/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/main/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -133,7 +133,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-5.2.0.tgz
@@ -144,8 +144,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 9128bdce8b90d54c5928404466f187cd8e5ae6e1e41c7798ae613c6d2a0c920d
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/main/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/main/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -156,7 +156,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-5.1.0.tgz
@@ -167,8 +167,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: cda6a56e4a4e0d8a257b3c0752aed416f94fca022b6b312cd7b694ceecff216a
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/main/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/main/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -179,7 +179,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-5.0.0.tgz
@@ -190,8 +190,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 9a938bbc2cc791abbadb54ca2877e861ba9bd556654209827b6a804efe54c91a
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -202,7 +202,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-5.0.0-beta.4.tgz
@@ -213,8 +213,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 954b95839251a739da22ca87c6e5b4e9d70c9e952d04c7bec914f4af69e38298
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -225,7 +225,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-5.0.0-beta.3.tgz
@@ -236,8 +236,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: b8533928b38002803a8426394b2addf0cd0b082bb7b6b1620967d6bdb73878b0
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -248,7 +248,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-5.0.0-beta.2.tgz
@@ -259,8 +259,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: f320cc6d79606c032207e805ba6a8afa51dfc65104ee41f59a74a0a7800aa0f6
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -271,7 +271,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-4.4.2.tgz
@@ -282,8 +282,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 4440c2d40014ecbf2f05b6522de9f544473685f02869198aad0c677506ca5821
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -294,7 +294,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-4.3.2.tgz
@@ -305,8 +305,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 023780a59e4557aff6cbab328a95846ec28a9cfee902bb5c3ce9d3e10e17f1d6
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -317,7 +317,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-4.3.1.tgz
@@ -328,8 +328,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: e2dce26edaba6ad8dbf7a2499feca3af00056e6212652f78909b3e039ae8fad4
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -340,7 +340,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-4.3.0.tgz
@@ -351,8 +351,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 32d39520a48da5fc6830cebb4c88437531617a5bc7235eb7b436cff4da285442
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -363,7 +363,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-4.2.0.tgz
@@ -374,8 +374,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 3aa3f80f7f39192aec5f972cbeac8cb1f3c346360865994af6f683941efa5d12
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -386,7 +386,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-4.1.0.tgz
@@ -397,8 +397,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: a5f287444aecd29ab28b548e045a70055def0498f088d41d2d655cdf2b2869a6
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/images/multijuicer-icon-only.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/images/multijuicer-icon-only.png
     keywords:
     - security
     - juice-shop
@@ -409,7 +409,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-4.0.0.tgz
@@ -420,8 +420,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 68de66ad7ffd5981d633f99e4526d26ab0176416542f6bbe602348913ef30ace
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -432,7 +432,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.11.0.tgz
@@ -443,8 +443,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 3c5c8fb67bc7f4b0fe8db842be6f2d08d7be71fbd173b8b6e0d5643f4846c0e2
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -455,7 +455,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.10.0.tgz
@@ -466,8 +466,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: c25336a431ce4ce03d9be6d58382d94a1aff193b7b98e4796f9110cc4aee5a3e
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -478,7 +478,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.9.0.tgz
@@ -489,8 +489,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 8fe82ff94142d60c8f88e7efc3293287144c57c8024c1f3e7a8c07959d18ad9f
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -501,7 +501,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.8.0.tgz
@@ -512,8 +512,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: e21dd04c54146917ea10f21a0c69c49410523b956744537b1a93f0b4d68d3d71
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -524,7 +524,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.7.0.tgz
@@ -535,8 +535,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 88bf6f9dd086a56197ff202464d97efdde6636afb553b929b4116ee4a6c5c494
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -547,7 +547,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.6.1.tgz
@@ -558,8 +558,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 0f4d0557734149e9963e834b795b953ac2c5663bd58badddb17115f9024616f8
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -570,7 +570,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.6.0.tgz
@@ -581,8 +581,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 44d3ef3c07dca57188fb49937314e5f12a302d624f181dce0217efaf2e3c045d
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -593,7 +593,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.5.0.tgz
@@ -604,8 +604,8 @@ entries:
     description: Run Multi User "Capture the Flags" or Security Trainings with OWASP
       Juice Shop
     digest: 2df1c575d368ba2560cf384a32b8b0540789f6b0e2dea3325330b793b2dfa134
-    home: https://github.com/iteratec/multi-juicer
-    icon: https://raw.githubusercontent.com/iteratec/multi-juicer/master/logo.png
+    home: https://github.com/hagrod/multi-juicer
+    icon: https://raw.githubusercontent.com/hagrod/multi-juicer/master/logo.png
     keywords:
     - security
     - juice-shop
@@ -616,7 +616,7 @@ entries:
     - kubernetes
     name: multi-juicer
     sources:
-    - https://github.com/iteratec/multi-juicer
+    - https://github.com/hagrod/multi-juicer
     type: application
     urls:
     - multi-juicer-3.4.1.tgz
