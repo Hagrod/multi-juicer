@@ -1,11 +1,11 @@
 apiVersion: v2
 name: multi-juicer
-description: Run Multi User "Capture the Flags" or Security Trainings with OWASP Juice Shop
-icon: https://raw.githubusercontent.com/iteratec/multi-juicer/main/images/multijuicer-icon-only.png
+description: DYNO TIME BOYS GET UP AND DANCE
+icon: https://raw.githubusercontent.com/hagrod/multi-juicer/main/images/multijuicer-icon-only.png
 
-home: https://github.com/iteratec/multi-juicer
+home: https://hagrod.github.io/multi-juicer/
 sources:
-  - https://github.com/iteratec/multi-juicer
+  - https://hagrod.github.io/multi-juicer/
 
 keywords:
   - security
