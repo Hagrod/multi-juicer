@@ -128,7 +128,7 @@ async function getTopTeams(req, res) {
 
       if (difficulty === undefined) {
         logger.warn(
-          `Difficulty for challenge "${progress.key}" is unknown. MultiJuicer version might be incompatible with the Dyno Shop version used.`
+          `Difficulty for challenge "${progress.key}" is unknown. MultiDyno version might be incompatible with the Dyno Shop version used.`
         );
       }
 

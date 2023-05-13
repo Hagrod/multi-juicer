@@ -120,7 +120,7 @@ export function Layout({ children, footer, siteHeader = null, wide = false }) {
       <Wrapper>
         <Header>
           <HeaderCard wide={wide}>
-            <Logo alt="MultiJuicer Logo" />
+            <Logo alt="MultiDyno Logo" />
             {siteHeader ? (
               <SiteHeader>
                 {siteHeader}
